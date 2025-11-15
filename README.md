@@ -135,3 +135,18 @@ Step 5: Validation Agent
 Step 6: Reporting Agent
 - Updates monthly summary
 - Generates charts and insights
+
+Workflow Diagram 
+<img width="298" height="512" alt="Screenshot 2025-11-15 122920" src="https://github.com/user-attachments/assets/0b1c23fe-1cd0-438c-a06b-f8ec1a544d0b" />
+
+
+Architecture Diagram
+<img width="495" height="326" alt="Screenshot 2025-11-15 120635" src="https://github.com/user-attachments/assets/7075c3f7-1f36-4e98-938a-9af146aff87f" />
+
+
+
+
+
+
+
+
