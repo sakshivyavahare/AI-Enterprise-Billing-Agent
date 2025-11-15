@@ -1,6 +1,6 @@
 # AI-Enterprise-Billing-Agent
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_jyn9mejyn9mejyn9" src="https://github.com/user-attachments/assets/ea66c869-fb25-4e92-a741-79c7d6179afb" />
+<img width="1270" height="580" alt="Screenshot 2025-11-15 132845" src="https://github.com/user-attachments/assets/64a61154-10e8-4a35-aa36-e9dbc70ddf7b" />
 
 
 The AI Enterprise Billing Agent is a multi-agent automation system designed for modern businesses to streamline billing, GST calculations, transaction validation, and reporting. Many small and mid-size enterprises struggle with manual invoice processing, error-prone GST calculations (CGST/SGST/IGST), messy records, and monthly compliance preparation.
