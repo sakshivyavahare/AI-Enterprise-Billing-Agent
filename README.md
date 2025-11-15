@@ -149,6 +149,11 @@ Architecture Diagram
 
 <img width="495" height="326" alt="Screenshot 2025-11-15 120635" src="https://github.com/user-attachments/assets/7075c3f7-1f36-4e98-938a-9af146aff87f" />
 
+Architecture Diagram
+
+<img width="507" height="567" alt="Screenshot 2025-11-15 123431" src="https://github.com/user-attachments/assets/a73ab8e0-ac92-4ea2-81a0-4f0b1cd4aaaa" />
+
+
 
 
 
